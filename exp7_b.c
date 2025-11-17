@@ -15,7 +15,7 @@
 }
 
    int main(){
-   int m1[2][2],int m2[2][2],result[2][2];
+   int m1[2][2], m2[2][2],result[2][2];
       int i,j;
       printf("enter the value of first matrix \n");
       for(i=0;i<2;i++){
